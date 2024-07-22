@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/day2-react/static/css/main.b219ead0.css",
+    "main.css": "/day2-react/static/css/main.7a80aa7d.css",
     "main.js": "/day2-react/static/js/main.1a7abc39.js",
     "index.html": "/day2-react/index.html",
-    "main.b219ead0.css.map": "/day2-react/static/css/main.b219ead0.css.map",
+    "main.7a80aa7d.css.map": "/day2-react/static/css/main.7a80aa7d.css.map",
     "main.1a7abc39.js.map": "/day2-react/static/js/main.1a7abc39.js.map"
   },
   "entrypoints": [
-    "static/css/main.b219ead0.css",
+    "static/css/main.7a80aa7d.css",
     "static/js/main.1a7abc39.js"
   ]
 }
